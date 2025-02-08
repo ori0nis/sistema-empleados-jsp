@@ -15,4 +15,4 @@ Technologies used include:
 ![JPA](https://img.shields.io/badge/JPA-2.2-blue.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-5.6.10-red.svg?style=for-the-badge&logo=hibernate&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-Database-blue.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-Framework-563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
