@@ -1,4 +1,4 @@
-Welcome to Sistema Empleados, a Jakarta Server Pages web app! 🚀
+## Welcome to Sistema Empleados, a Jakarta Server Pages web app! 🚀
 
 Sistema de Empleados is a simple management system where you can add, modify or delete employees that are allocated in a SQL database. The frontend uses JSP and JSTL tags to produce dynamic code, and it was styled using Bootstrap. 
 
