@@ -4,8 +4,6 @@ Sistema de Empleados is a simple management system where you can add, modify or 
 
 The database is managed with Springboot, JPA and Hibernate.
 
-This app was created following Ubaldo Acosta's lead during his "Universidad Java" masterclass.
-
 Technologies used include:
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
